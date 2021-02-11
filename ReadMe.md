@@ -12,16 +12,23 @@ Project Workflow to analyze the variables that go into customers accepting the c
 
 
 
+
 Links: 
 
 Presentation:-
-Tableau: https://public.tableau.com/profile/francesca.mele2117#!/vizhome/StoryProject_16130658062130/ProjectStory?publish=yes
-Jupyter notebook: 
-Google sheet: https://docs.google.com/spreadsheets/d/1Zo2-p_Py4uhHTvlJ3yx0rFrLZzy2euhrbDGPHZ7EDw0/edit#gid=0
+
+#Tableau: https://public.tableau.com/profile/francesca.mele2117#!/vizhome/StoryProject_16130658062130/ProjectStory?publish=yes
+
+#Jupyter notebook: 11-02 https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/Master%20file9-11-02-21_19h30.ipynb
+
+#Google sheet: https://docs.google.com/spreadsheets/d/1Zo2-p_Py4uhHTvlJ3yx0rFrLZzy2euhrbDGPHZ7EDw0/edit#gid=0
 
 
 Activities:-
-Tableau: / https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/Credit%20Card%20Acceptance%20Exploration%20Tables.twbx
-SQL: https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/SQL%20file%20begin.sql
 
-Github: https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick
+#Tableau: / https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/Credit%20Card%20Acceptance%20Exploration%20Tables.twbx
+
+#SQL: https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/SQL%20file%20begin.sql
+
+
+#Github: https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick
