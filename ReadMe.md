@@ -21,7 +21,7 @@ Presentation:-
 
 #Tableau: https://public.tableau.com/profile/francesca.mele2117#!/vizhome/StoryProject_16130658062130/ProjectStory?publish=yes
 
-#Jupyter notebook: 12-02
+#Jupyter notebook: 12-02 https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/Juptyer/Jupyter_MasterFile10.ipynb
 
 #Google sheet: https://docs.google.com/spreadsheets/d/1Zo2-p_Py4uhHTvlJ3yx0rFrLZzy2euhrbDGPHZ7EDw0/edit#gid=0
 
