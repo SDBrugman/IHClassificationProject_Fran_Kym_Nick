@@ -1,0 +1,60 @@
+TEST_id,Transformation outliers,Ordinalise/bin,drop,FEATURE ENGINEERING. DESCRIPTION,NORMALIZER SCALER,STANDARD SCALER,MIXMAX SCALER,POWER SCALER,Class Regr MODEL,KNN MODEL,"KNN
+Key",Random Forest MODEL,Ada MODEL,SVM MODEL,TOMEK BALANCER,SMOTE BALANCER,"UNDER BALANCER
+-","OVER SCALER
++",Accuracy RESULTS,"Kappa RESULTS
+(0.65 target)",TN RESULTS,FN RESULTS,TP RESULTS,FP RESULTS,"Model Value 
+10 to 1","Model 
+25 to 1","Model 
+100 to 1","Model 
+1000 to1"
+K Test 17,1,1,0,"IQR outliers and bucket housesiz, avg balan 500",0,1,0,0,0,0,0,0,1,0,0,1,0,0,0.87,0.18,4488,214,114,494,0.1001883239,0.4222222222,2.032391714,3.105838041
+K Test 39,1,1,1,"IQR outliers, Bin: HSiz, Avg balan FREQ, Avg bal: Removed 3 bin",0,1,0,0,1,0,0,0,0,0,1,0,1,0,0.91,0.18,4691,242,72,134,0.100019459,0.3101770773,1.360965168,2.061490562
+K Test 38,1,1,1,"IQR outliers, Bin: HSiz, Avg balan FREQ, Avg bal: Removed 3 bin",0,0,0,1,1,0,0,0,0,0,1,1,0,0,0.91,0.18,4670,240,74,255,0.07845008589,0.2903225806,1.349685054,2.055926704
+K Test 37,1,1,1,"IQR outliers, Bin: HSiz, Avg balan FREQ, Avg bal: Removed 3 bin",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0.91,0.18,4678,241,73,247,0.07825920977,0.2872685627,1.332315327,2.02901317
+K Test 40,1,1,1,"IQR outliers, Bin: HSiz, Avg balan FREQ, Avg bal: Removed 3 bin",0,1,0,0,1,0,0,0,0,0,0,1,0,0,0.91,0.18,4695,244,70,230,0.07635044856,0.276770376,1.278870013,1.946936438
+K Test 36,1,1,0,"IQR outliers, Bin: HSiz, Avg balan FREQ",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0.84,0.17,4335,196,132,647,0.1018832392,0.4747645951,2.339171375,3.582109228
+K Test 42,1,1,0,"IQR outliers and bucket housesiz, avg balan 500",0,0,0,1,0,0,0,0,1,0,1,1,0,0,0.84,0.17,4354,197,131,628,0.1037664783,0.4738229755,2.324105461,3.557627119
+K Test 33,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Avg bal: Removed 4 bin",0,0,0,1,0,0,0,0,1,0,1,1,0,0,0.85,0.17,4310,188,126,615,0.09906470701,0.4598205764,2.263599924,3.466119488
+K Test 19,1,1,0,"IQR outliers and bucket housesiz, avg balan 500",0,0,0,1,0,0,0,0,1,0,1,1,0,0,0.86,0.17,4429,209,119,553,0.09755178908,0.4337099812,2.114500942,3.235028249
+K Test 18,1,1,0,"IQR outliers and bucket housesiz, avg balan 500",0,1,0,0,0,0,0,0,1,0,0,1,0,0,0.86,0.17,4446,213,115,536,0.09397363465,0.4188323917,2.043126177,3.125988701
+K Test 41,1,1,1,"IQR outliers, Bin: HSiz, Avg balan FREQ, Avg bal: Removed 3 bin",0,0,1,0,1,0,0,0,0,0,1,1,0,0,0.91,0.17,4707,249,65,218,0.07005153655,0.2561557549,1.186676847,1.807024241
+K Test 35,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Avg bal: Removed 4 bin",0,0,0,1,1,0,0,0,0,0,0,1,0,0,0.91,0.17,4706,249,65,219,0.06986066043,0.2559648788,1.186485971,1.806833365
+K Test 31,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Avg bal: Removed 4 bin",0,1,0,0,0,0,0,0,1,0,1,1,0,0,0.86,0.16,4369,203,111,556,0.08455812178,0.4023668639,1.991410575,3.050773048
+K Test 29,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Avg bal: Removed 4 bin",0,0,0,0,1,0,0,0,0,0,1,1,0,0,0.9,0.16,4676,249,65,249,0.06413437679,0.2502385952,1.180759687,1.801107082
+K Test 32,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Avg bal: Removed 4 bin",0,0,0,1,1,0,0,0,0,0,1,1,0,0,0.91,0.16,4697,250,64,228,0.06642489025,0.2496659668,1.165871349,1.776674938
+K Test 30,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Avg bal: Removed 4 bin",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0.91,0.16,4702,252,62,223,0.06394350067,0.2414582936,1.129032258,1.720748234
+K Test 34,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Avg bal: Removed 4 bin",0,1,0,0,1,0,0,0,0,0,0,1,0,0,0.91,0.16,4708,254,60,217,0.06165298721,0.2334414965,1.092384043,1.665012407
+K Test 26,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'reward'] != 'Cash Back']",0,1,0,0,0,0,0,0,1,0,0,1,0,0,0.84,0.15,2874,425,86,153,0.1755228943,0.5401356699,2.363199548,3.578575466
+K Test 21,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'n_credit_cards_held' != 1",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0.92,0.15,3194,155,33,127,0.04844685095,0.1895126817,0.8948418353,1.365061271
+N Test 2,0,1,1,"Dropping all columns except credit_rating, income_level, mailer_type, rewards and avg_balance_bins",0,0,0,1,0,0,0,0,1,0,1,0,1,0,0.72,0.14,3578,108,220,1404,0.1084745763,0.7299435028,3.837288136,5.908851224
+K Test 25,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'overdraft_protection' != ""Yes""",0,0,0,1,0,0,0,0,1,0,0,1,0,0,0.84,0.14,2864,184,81,391,0.09602272727,0.4411931818,2.167045455,3.317613636
+K Test 28,1,1,0,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'credit_rating'] != 'High']",0,0,0,1,1,0,0,0,1,0,0,1,0,0,0.82,0.13,2800,177,88,455,0.09573863636,0.4707386364,2.345738636,3.595738636
+K Test 27,1,1,0,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'credit_rating'] != 'High']",0,1,0,0,1,0,0,0,1,0,0,1,0,0,0.84,0.13,2863,188,77,392,0.08551136364,0.4136363636,2.054261364,3.148011364
+K Test 24,1,1,0,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'overdraft_protection' != ""Yes""",0,0,0,1,1,0,0,0,1,0,1,1,0,0,0.83,0.13,3666,169,96,588,0.06107545917,0.3797300288,1.973002877,3.035184775
+K Test 22,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'overdraft_protection' != ""Yes""",0,1,0,0,1,0,0,0,1,0,1,1,0,0,0.85,0.13,3751,180,85,503,0.05797742863,0.3401194955,1.75082983,2.691303386
+K Test 23,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'overdraft_protection' != ""Yes""",0,0,0,1,1,0,0,0,0,0,1,1,0,0,0.9,0.13,4031,217,48,223,0.04624917017,0.205576455,1.002212879,1.533303828
+Test 8,1,1,0,"Ordi: income_level, credit_rating",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0.68,0.12,3390,97,231,1592,0.09171374765,0.7442561205,4.006967985,6.182109228
+K Test 0,1,1,0,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'credit_rating' != 'High'] & != 'Medium'",0,1,0,0,1,0,0,0,1,0,1,1,0,0,0.8,0.12,1346,147,55,211,0.1614553724,0.630471859,2.975554292,4.538942581
+N Test 1,0,1,1,"Dropping all columns except credit_rating, income_level, mailer_type, rewards and avg_balance_bins",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0.9,0.12,4736,273,55,246,0.04689265537,0.202259887,0.9790960452,1.496986817
+K Test 15,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,0,0,1,0,0.66,0.11,3319,76,224,1774,0.0448729835,0.667902837,3.783052105,5.859818283
+K Test 14,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,0,0,0,1,0.66,0.11,3341,77,223,1752,0.04728351567,0.6675319859,3.768774337,5.836269238
+K Test 6,0,0,0,With outliers (dirty copy),0,1,0,0,1,0,0,0,0,0,0,0,0,1,0.66,0.11,3341,77,223,1752,0.04728351567,0.6675319859,3.768774337,5.836269238
+K Test 3,0,0,0,With outliers (dirty copy),0,1,0,0,1,0,0,0,0,0,1,0,1,0,0.65,0.11,3300,78,222,1793,0.03801223809,0.6554793251,3.74281476,5.801038383
+K Test 10,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,1,0,0,1,0.66,0.11,3328,80,220,1765,0.0398664936,0.651770814,3.711292416,5.750973484
+K Test 2,0,0,0,With outliers (dirty copy),0,1,0,0,1,0,0,0,0,0,1,0,0,1,0.66,0.11,3328,80,220,1765,0.0398664936,0.651770814,3.711292416,5.750973484
+K Test 1,0,0,0,With outliers (dirty copy),0,1,0,0,1,0,0,0,0,0,1,1,0,0,0.68,0.11,3449,90,210,1644,0.0456146857,0.6297051734,3.550157612,5.497125904
+K Test 9,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,1,1,0,0,0.68,0.11,3449,90,210,1644,0.0456146857,0.6297051734,3.550157612,5.497125904
+K Test 13,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,0,1,0,0,0.67,0.11,3419,91,209,1674,0.03838308919,0.6196921936,3.526237716,5.46393473
+K Test 5,0,0,0,With outliers (dirty copy),0,1,0,0,1,0,0,0,0,0,0,1,0,0,0.67,0.11,3419,91,209,1674,0.03838308919,0.6196921936,3.526237716,5.46393473
+K Test 11,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,1,0,1,0,0.65,0.11,3300,78,22,1793,-0.3071442326,-0.24359715,0.07413826305,0.2859618718
+N Test 3,0,1,1,"Dropping all columns except credit_rating, income_level, mailer_type, rewards and avg_balance_bins",0,1,0,0,0,0,0,1,0,0,1,0,0,1,0.62,0.09,3036,90,238,1956,0.03496240602,0.7060150376,4.061278195,6.298120301
+K Test 20,1,1,1,"IQR Outliers, Bin: HSiz, Avg balan 500, Drop row:low target: remove rows: 'n_credit_cards_held' != 1, 'credit_rating' != 'High', 'reward' != 'Cash Back'",0,0,0,0,0,0,0,1,0,0,1,1,0,0,0.87,0.09,1319,115,19,83,0.05729166667,0.2428385417,1.170572917,1.7890625
+Test 9,1,1,0,"IQR outliers. Ordi: income_level, credit_rating",0,1,0,0,0,1,0,0,0,0,1,1,0,0,0.87,0.08,4534,266,62,448,0.02071563089,0.1958568738,1.071563089,1.655367232
+Test 6,1,1,0,"IQR outliers. Ordi: income_level, credit_rating",1,0,0,0,1,0,0,0,0,0,1,0,0,0,0.94,0,10546,610,397,5641,-0.1202745144,0.2260672328,1.957775968,3.112248459
+K Test 12,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,1,0,0,0,0.94,0,5093,300,0,0,0,0,0,0
+K Test 16,0,0,0,With outliers (dirty copy),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.94,0,5093,300,0,0,0,0,0,0
+K Test 4,0,0,0,With outliers (dirty copy),0,1,0,0,1,0,0,0,0,0,1,0,0,0,0.94,0,5093,300,0,0,0,0,0,0
+K Test 8,0,0,0,With outliers (dirty copy),0,1,0,0,1,0,0,0,0,0,0,0,0,0,0.94,0,5093,300,0,0,0,0,0,0
+Test 1,1,1,0,"IQR outliers. Ordi: income_level, credit_rating",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.94,0,6663,417,0,0,0,0,0,0
+Test 2,1,1,0,"IQR outliers. Ordi: income_level, credit_rating",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.94,0,6663,417,0,0,0,0,0,0
+Send to all,,,,Send to all,,,,,,,,,,,,,,,,,,,1023,16977,-0.4316666667,0.4208333333,4.683333333,7.525

@@ -17,18 +17,20 @@ Links:
 
 Presentation:-
 
+#Google Slides:  https://docs.google.com/presentation/d/1MTeAQhXaaO8QDAi4hkHEW36gJ5FVKYagFqHMuFsmWmg/edit?usp=sharing
+
 #Tableau: https://public.tableau.com/profile/francesca.mele2117#!/vizhome/StoryProject_16130658062130/ProjectStory?publish=yes
 
-#Jupyter notebook: 11-02 https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/Master%20file9-11-02-21_19h30.ipynb
+#Jupyter notebook: 12-02
 
 #Google sheet: https://docs.google.com/spreadsheets/d/1Zo2-p_Py4uhHTvlJ3yx0rFrLZzy2euhrbDGPHZ7EDw0/edit#gid=0
 
 
+
 Activities:-
 
-#Tableau: / https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/Credit%20Card%20Acceptance%20Exploration%20Tables.twbx
+#Tableau: https://public.tableau.com/profile/nickolaus.smith#!/vizhome/CreditCardAcceptanceExplorationTables/Avgbalancerelationships
 
 #SQL: https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick/blob/main/SQL%20file%20begin.sql
-
 
 #Github: https://github.com/kymy91/IHClassificationProject_Fran_Kym_Nick
